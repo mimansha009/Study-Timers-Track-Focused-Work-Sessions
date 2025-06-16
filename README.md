@@ -22,3 +22,4 @@ To motivate and encourage disciplined study habits by enabling users to track an
 ## Contract Address
 
 **Testnet Address**: ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.study-timmer
+![image (3)](https://github.com/user-attachments/assets/a20c3d10-9d57-431d-b741-8fc7c400d0ca)
