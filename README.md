@@ -6,7 +6,7 @@
 
 ##  Project Description
 
-The "Study Timers" contract allows users to log focused study sessions measured in minutes. Each time a user logs a session, it gets recorded on-chain, and a running total of their study time is updated. The contract also tracks the global total of all usersâ€™ logged study times.
+The "Study Timers" contract allows users to log focused study sessions measured in minutes. Each time a user logs a session, it gets recorded on-chain, and a running total of their study time is updated. The contract also tracks the global total of all usersÃ¢â‚¬â„¢ logged study times.
 
 ## Project Vision
 
@@ -21,5 +21,5 @@ To motivate and encourage disciplined study habits by enabling users to track an
 
 ## Contract Address
 
-**Testnet Address**: ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.study-timmer
+**Testnet Address**: STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.study-timer
 ![image (3)](https://github.com/user-attachments/assets/a20c3d10-9d57-431d-b741-8fc7c400d0ca)
